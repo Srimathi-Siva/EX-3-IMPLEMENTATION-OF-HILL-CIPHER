@@ -1,4 +1,6 @@
 ## EX : 3 IMPLEMENTATION OF HILL CIPHER
+## NAME: SRI MATHI S
+## REGISTOR NO : 212224230272
 
 ## AIM:
 
@@ -25,6 +27,7 @@ Step 3:
 
 
 ## PROGRAM:
+```
 
 #include <stdio.h>
 #include <string.h>
@@ -86,6 +89,7 @@ int main()
 
     return 0;
 }
+```
 
 ## OUTPUT:
 
